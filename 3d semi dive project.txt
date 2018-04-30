@@ -1,0 +1,3 @@
+3d semi dive system, running on a plinth, 4 towers of infrared trackers, computertower for 3d enviornment, running boards with ball bearings to simulate lateral movement, full body harness with brakes to simulate pressure. hydraulics below to simulate verticle movement and tilt. ENTER PLAYER ONE
+
+round headed hex pattern to simulate slope in 
